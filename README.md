@@ -1,16 +1,17 @@
-### Hi there 👋
+### bem vindos
 
-<!--
-**amandastreit79/amandastreit79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é amanda streit
 
-Here are some ideas to get you started:
+- estou etudando no alura
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo para a minha organização e compartilhamento dos meus projetos deenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### se voce quiser entrar em contato comigo :
+
+- amanda.streit@ecola.pr.gov.br
+
+-@amanda_streit_
+
+![](![image](https://github.com/amandastreit79/amandastreit79/assets/137894405/af3f4a38-a5c7-4ca6-8800-4deec3c38b42)
+
+ 
